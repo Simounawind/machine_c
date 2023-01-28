@@ -330,3 +330,19 @@ epoch = 50
 batch_size = 50
 
 ![image-20230128041319147](/Users/xiaohua/Desktop/assets/image-20230128041319147.png)
+
+
+
+
+
+
+
+seq_length = 100
+
+learning_rate = 0.03
+
+epoch = 50
+
+batch_size = 40
+
+![image-20230128042859221](/Users/xiaohua/Desktop/machine_c/assets/image-20230128042859221.png)
